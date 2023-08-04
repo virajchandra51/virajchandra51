@@ -50,24 +50,4 @@
 <hr>  
 
 ### <samp>Github Stats
-  
-<p align="center">
-  <a href="https://github.com/virajchandra51"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=virajchandra51&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=virajchandra51&theme=radical" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=virajchandra51&show_icons=true&locale=en&theme=dracula" alt="virajchandra51"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virajchandra51&theme=dracula" />
-    </span></a>
-  
-</p>
-  
-  
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/virajchandra51/count.svg" />
-</p>
-  
-![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
- 
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
-
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
