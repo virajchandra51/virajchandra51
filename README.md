@@ -11,6 +11,13 @@
 - ⚡ <samp>Fun fact: I think I am funny, with a tint of zeal and determination.
 - 📫 <samp>How to reach me virajchandra51@gmail.com
 
+This my NPX card unique style to connect with me directly via console or terminal
+
+👇 just hit 
+```bash
+npx virajchandra
+```
+
 <h3><b><samp>Connect with Me</samp></b></h3>
 
 [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-chandra-4073a8223/)
